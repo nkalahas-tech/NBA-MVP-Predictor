@@ -1,7 +1,3 @@
-Here's an example of a README file for the NBA MVP Predictor Tool on GitHub:
-
----
-
 # NBA MVP Predictor Tool
 
 Welcome to the NBA MVP Predictor Tool! This project is designed to predict the Most Valuable Player (MVP) for the current year in the National Basketball Association (NBA) using historical data and machine learning models.

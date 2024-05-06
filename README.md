@@ -28,36 +28,6 @@ The NBA MVP Predictor Tool is a machine learning project that uses player statis
 
 The tool collects historical player statistics from reputable sources like [basketball-reference.com](https://www.basketball-reference.com/) and other online databases.
 
-## Usage
-
-1. **Clone the repository**:
-    ```shell
-    git clone https://github.com/yourusername/nba-mvp-predictor-tool.git
-    ```
-
-2. **Navigate to the project directory**:
-    ```shell
-    cd nba-mvp-predictor-tool
-    ```
-
-3. **Install required packages**:
-    ```shell
-    pip install -r requirements.txt
-    ```
-
-4. **Run the prediction script**:
-    ```shell
-    python predict_mvp.py
-    ```
-
-5. **View predictions**:
-    The predictions will be displayed in the terminal or can be saved to a file depending on the implementation.
-
-## Installation
-
-1. Clone the repository as mentioned in the [Usage](#usage) section.
-2. Install the required packages using the command provided.
-
 ## Model
 
 - The tool uses the Random Forest algorithm for predicting the NBA MVP.
